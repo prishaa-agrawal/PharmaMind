@@ -106,3 +106,41 @@ Relevant patents
 Market analysis and visual charts
 
 Downloadable structured report
+
+Setup and Running PharmaMind-
+1. Download the project
+Clone the repo or download the ZIP and extract it.
+git clone https://github.com/prishaa-agrawal/pharmamind.git
+cd pharmamind
+
+2. Activate virtual environment (recommended)
+python -m venv venv
+venv\Scripts\activate
+
+3. Install dependencies
+pip install -r requirements.txt
+
+4. Update the existing .env file
+Open the already present .env and replace the keys with your own:
+GOOGLE_API_KEY=AIzaSyBLkpoulD-DYzIAFxgV_kaWbun1qEHYTS4
+OPENROUTER_API_KEY=sk-or-v1-285aeadb6af54038ecd6063c2b7ededb4631cf53f7f58dbbcfdde71fe9dedbd
+
+5. Run the FastAPI server
+
+Check where FastAPI() is defined.
+If in api.py:
+uvicorn api:app --reload
+If in main.py:
+uvicorn main:app --reload
+
+6. Run the PharmaMind pipeline
+In another terminal:
+python main.py
+Enter any molecule name when prompted.
+
+7. Output
+After execution, the result is saved in:
+example_output.json
+
+
+This file contains the full AI-generated drug repurposing report.
