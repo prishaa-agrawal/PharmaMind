@@ -1,0 +1,219 @@
+{
+  "drug_name": "paracetamol",
+  "summary": {
+    "overall_insight": "paracetamol shows significant repurposing potential based on recent research and market analysis."
+  },
+  "clinical_trials": {
+    "total_trials": 5,
+    "trials_by_disease": {
+      "Pain, Postoperative": 1,
+      "Postoperative Delirium, Elderly, Non Cardiac Surgery": 1,
+      "Cold, Flu Symptom": 1,
+      "Pain": 1,
+      "Asthma, Wheezing": 1
+    },
+    "key_trials": [
+      {
+        "title": "Evaluation of Paracetamol as Post-operative Analgetic Modality Compared With Ketorolac",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "year": 2022,
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "title": "Impact of Paracetamol and Mannitol Injection Analgesia on Postoperative Delirium in Elderly Patients After Non-cardical Surgery: A Randomized Controlled Trial",
+        "phase": "PHASE4",
+        "status": "NOT_YET_RECRUITING",
+        "year": 2025,
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "title": "A Multicenter, Randomized, Parallel-group, Double-blind, Comparative Trial of the Superiority of Paracetamol 500mg/Fexofenadine 60mg/Phenylephrine 20mg Fixed-dose Combination Versus Placebo in the Symptomatic Treatment of Flu and Cold",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "year": 2025,
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "title": "A Randomized, 2-Way, Parallel, Single-Blind Pharmacokinetic Study to Evaluate the Interaction Between Intravenous Morphine and Orally or Intravenously Administered Acetaminophen in Healthy Subjects",
+        "phase": "PHASE4",
+        "status": "COMPLETED",
+        "year": 2016,
+        "url": "https://clinicaltrials.gov/"
+      },
+      {
+        "title": "Acetaminophen vs. Ibuprofen in Children With Asthma",
+        "phase": "PHASE3",
+        "status": "COMPLETED",
+        "year": 2013,
+        "url": "https://clinicaltrials.gov/"
+      }
+    ],
+    "summary": "Research on paracetamol continues to focus on its role in postoperative care, with emerging interest in its potential impact on specific complications like postoperative delirium. A significant trend involves ongoing investigation and meta-analyses into the potential neurodevelopmental effects associated with prenatal and postnatal exposure to paracetamol, particularly concerning autism spectrum and attention-deficit/hyperactivity symptoms. Additionally, fundamental research explores its effects on liver physiology, including in the context of regeneration and toxicity."
+  },
+  "research_papers": {
+    "total_papers": 5,
+    "key_topics": [
+      "Postoperative Delirium"
+    ],
+    "top_papers": [
+      {
+        "title": "Fourth Consensus Guidelines for the Management of Postoperative Nausea and Vomiting.",
+        "year": 2020,
+        "authors": [
+          "Gan TJ",
+          "Belani KG",
+          "Bergese S",
+          "Chung F",
+          "Diemunsch P",
+          "Habib AS",
+          "Jin Z",
+          "Kovac AL",
+          "Meyer TA",
+          "Urman RD",
+          "Apfel CC",
+          "Ayad S",
+          "Beagley L",
+          "Candiotti K",
+          "Englesakis M",
+          "Hedrick TL",
+          "Kranke P",
+          "Lee S",
+          "Lipman D",
+          "Minkowitz HS",
+          "Morton J",
+          "Philip BK"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32467512/"
+      },
+      {
+        "title": "Prenatal and postnatal exposure to acetaminophen in relation to autism spectrum and attention-deficit and hyperactivity symptoms in childhood: Meta-analysis in six European population-based cohorts.",
+        "year": 2021,
+        "authors": [
+          "Alemany S",
+          "Avella-García C",
+          "Liew Z",
+          "García-Esteban R",
+          "Inoue K",
+          "Cadman T",
+          "López-Vicente M",
+          "González L",
+          "Riaño Galán I",
+          "Andiarena A",
+          "Casas M",
+          "Margetaki K",
+          "Strandberg-Larsen K",
+          "Lawlor DA",
+          "El Marroun H",
+          "Tiemeier H",
+          "Iñiguez C",
+          "Tardón A",
+          "Santa-Marina L",
+          "Júlvez J",
+          "Porta D",
+          "Chatzi L",
+          "Sunyer J"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34046850/"
+      },
+      {
+        "title": "Multimodal decoding of human liver regeneration.",
+        "year": 2024,
+        "authors": [
+          "Matchett KP",
+          "Wilson-Kanamori JR",
+          "Portman JR",
+          "Kapourani CA",
+          "Fercoq F",
+          "May S",
+          "Zajdel E",
+          "Beltran M",
+          "Sutherland EF",
+          "Mackey JBG",
+          "Brice M",
+          "Wilson GC",
+          "Wallace SJ",
+          "Kitto L",
+          "Younger NT",
+          "Dobie R",
+          "Mole DJ",
+          "Oniscu GC",
+          "Wigmore SJ",
+          "Ramachandran P",
+          "Vallejos CA",
+          "Carragher NO",
+          "Saeidinejad MM",
+          "Quaglia A",
+          "Jalan R",
+          "Simpson KJ",
+          "Kendall TJ",
+          "Rule JA",
+          "Lee WM",
+          "Hoare M",
+          "Weston CJ",
+          "Marioni JC",
+          "Teichmann SA",
+          "Bird TG",
+          "Carlin LM",
+          "Henderson NC"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38693268/"
+      },
+      {
+        "title": "Prenatal paracetamol exposure and child neurodevelopment: A review.",
+        "year": 2018,
+        "authors": [
+          "Bauer AZ",
+          "Kriebel D",
+          "Herbert MR",
+          "Bornehag CG",
+          "Swan SH"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29341895/"
+      },
+      {
+        "title": "Paracetamol (acetaminophen) poisoning: The early years.",
+        "year": 2024,
+        "authors": [
+          "Prescott LF"
+        ],
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37683599/"
+      }
+    ],
+    "summary": "Research on paracetamol continues to focus on its role in postoperative care, with emerging interest in its potential impact on specific complications like postoperative delirium. A significant trend involves ongoing investigation and meta-analyses into the potential neurodevelopmental effects associated with prenatal and postnatal exposure to paracetamol, particularly concerning autism spectrum and attention-deficit/hyperactivity symptoms. Additionally, fundamental research explores its effects on liver physiology, including in the context of regeneration and toxicity."
+  },
+  "patents": {
+    "total_patents": 0,
+    "recent_patents": [],
+    "patent_trend": {},
+    "summary": "Patent activity suggests growing interest in new applications."
+  },
+  "market_analysis": {
+    "top_indications": [
+      {
+        "disease": "Postoperative Delirium",
+        "market_size_usd_billion": 1.0,
+        "competition": "No dominant direct competitors identified for this specific indication",
+        "potential_score": 0.22
+      }
+    ],
+    "summary": "Analysis of 1 potential indications completed. See top_indications for details."
+  },
+  "visualization_data": {
+    "charts": {
+      "trials_by_disease": {
+        "Pain, Postoperative": 1,
+        "Postoperative Delirium, Elderly, Non Cardiac Surgery": 1,
+        "Cold, Flu Symptom": 1,
+        "Pain": 1,
+        "Asthma, Wheezing": 1
+      },
+      "patent_trend": {},
+      "market_potential": {}
+    }
+  },
+  "report_links": {
+    "pdf_report": "https://pharmamind.ai/reports/paracetamol_report.pdf",
+    "timestamp": "2026-02-03T18:55:14.879119"
+  }
+}
